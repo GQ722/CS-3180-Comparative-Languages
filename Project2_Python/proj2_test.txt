@@ -1,0 +1,2 @@
+var = 92/7 - 2 + 4 * 1;
+@While (var > 0) { [@Tern var > 0 ? @Print(var + 1;) : @Print(var;)] var --; }
